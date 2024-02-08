@@ -1,0 +1,3 @@
+ID;invoiceNumber;dateIssued;dateDue;status;totalAmount;customer_ID
+ac497b5f-7f06-4f83-a45d-66d30553ac16;INV01;2024-01-01;2024-01-24;Completed;12500;75f5017a-74e5-4c48-9e33-b9c3443cfc79
+f5eee700-c6cd-4445-a742-993439c458bf;INV02;2024-01-01;2024-01-23;Completed;25000;5fe3d7d3-df9f-4d90-a317-366657abd2b5
